@@ -1,0 +1,51 @@
+Start testing: Apr 13 11:34 UTC
+----------------------------------------------------------
+1/3 Testing: bubblesort
+1/3 Test: bubblesort
+Command: "/home/pcsdocker/Data/PCS-2026/esercitazione4/build_es4/test_bubblesort"
+Directory: /home/pcsdocker/Data/PCS-2026/esercitazione4/build_es4
+"bubblesort" start time: Apr 13 11:34 UTC
+Output:
+----------------------------------------------------------
+Tutti i vettori e le stringhe testati sono stati ordinati con successo con Bubble Sort
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bubblesort" end time: Apr 13 11:34 UTC
+"bubblesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: insertionsort
+2/3 Test: insertionsort
+Command: "/home/pcsdocker/Data/PCS-2026/esercitazione4/build_es4/test_insertionsort"
+Directory: /home/pcsdocker/Data/PCS-2026/esercitazione4/build_es4
+"insertionsort" start time: Apr 13 11:34 UTC
+Output:
+----------------------------------------------------------
+Tutti i vettori e le stringhe testati sono stati ordinati con successo con Bubble Sort
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"insertionsort" end time: Apr 13 11:34 UTC
+"insertionsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: selectionsort
+3/3 Test: selectionsort
+Command: "/home/pcsdocker/Data/PCS-2026/esercitazione4/build_es4/test_selectionsort"
+Directory: /home/pcsdocker/Data/PCS-2026/esercitazione4/build_es4
+"selectionsort" start time: Apr 13 11:34 UTC
+Output:
+----------------------------------------------------------
+Tutti i vettori e le stringhe testati sono stati ordinati con successo con Bubble Sort
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"selectionsort" end time: Apr 13 11:34 UTC
+"selectionsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 13 11:34 UTC
